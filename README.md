@@ -159,6 +159,7 @@ Releases
 - community discuttion: https://community.cloud.online.net/t/official-linux-kernel-new-modules-optimizations-hacks/226/6?u=manfred
 - kernel commit: https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tag/?id=v3.17
 
+
 Licensing
 =========
 
